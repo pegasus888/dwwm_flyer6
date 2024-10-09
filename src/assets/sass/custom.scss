@@ -1,0 +1,75 @@
+// Custom Colors Variables (in _variables.scss: scss-docs-start theme-color-variables)
+$primary:   #c29938;
+$success:   #006400;
+$info:      #010122;
+$warning:   #ffd700;
+$danger:    #dc143c;
+$light:     #fbf5e5;
+$dark:      #020219;
+
+
+// Import the functions & variables
+@import "/node_modules/bootstrap/scss/_functions";
+@import "/node_modules/bootstrap/scss/_variables";
+
+
+// Add extra Theme Colors Variables (in _variables.scss: scss-docs-start theme-colors-map)
+// Warning: if change one value, it will alter it: then better to add a value to the map to have our own
+$custom-theme-colors: (
+        'altprimary':               #bd8a11,
+        'altsecondary':             #53595e,
+        'altwarning':               #ff4500,
+        'altdanger':                #b22222,
+        'altsuccess':               #061e06,
+        'altinfo':                  #20b2aa,
+        'altlight':                 #f2ebfa,
+        'altmyaqua':                #00FFFF,
+        'altmydarkblue':            #00008B,
+        'altmymydarkcyan':          #008B8B,
+        'altmyvelvetpurple':        #522192,
+        'altmydarkfuschia':         #800080,
+        'altmylightblueviolet':     #8A2BE2,
+        'altmydimmauve':            #8B008B,
+        'altmypurpleblue':          #4B0082,
+        'altmypurple':              #7306a1,
+        'altmymauve':               #9932CC,
+        'altmycrimson':             #781212,
+        'altmydarkred':             #8B0000,
+        'altmyvelvetturquoise':     #20B2AA,
+        'altmyorange':              #FF4500,
+        'altmydarkorange':          #f05f11,
+        'altmyflamboyant':          #f23708,
+        'altmyyellow':              #FFFF00,
+        'altmygoldengreen':         #FFD700,
+        'altmygold':                #ba8507,
+        'altmylightgold':           #d29608,
+        'altmywarmpink':            #FF69B4,
+        'altmysalmonpink':          #F08080,
+        'altmylightpinkbrown':      #BC8F8F,
+        'altmyreddishpink':         #CD5C5C,
+        'altmyblack':               #010e1a,
+        'altmyblueblack':           #1b0539,
+        'altmyblue':                #2606a1,
+        'altmygray':                #A9A9A9,
+        'altmyvelvetgray':          #696969,
+        'altmyreddishgray':         #665c5c,
+        'altmylightgrey':           #d5d8db,
+        'altmysaddlebrown':         #8B4513,
+        'altmydarkgreen':           #006400,
+        'altmywatergreen':          #06a173,
+        'altmypastelgreen':         #8FBC8F,
+        'altmyduckgreen':           #2F4F4F,
+        'altmygreenturquoise':      #20B2AA,
+        'altmyroyalblue':           #072cb3,
+        'altmylightblue':           #778cd9,
+        'altmywhite':               #fafcfc,
+        'altmylightbeige':          #dfcfb5,
+        'altmybeige':               #c8ad7f
+);
+
+// then merge our own to the existing colors-map to use the extra colors
+$theme-colors: map-merge($custom-theme-colors, $theme-colors);
+
+// Import bootstrap
+@import "/node_modules/bootstrap/scss/bootstrap";
+
