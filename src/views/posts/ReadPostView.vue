@@ -26,7 +26,7 @@ export default {
               <img src="../../assets/images/frameworks_battle-min.png" alt="picture" class="bd-placeholder-img img-fluid rounded border border-altmysaddlebrown" style="object-fit: cover;">
             </a>
             <figure class="text-center">
-              <figcaption class="blockquote-footer m-2 text-success opacity-25">
+              <figcaption class="blockquote-footer m-2 text-success opacity-75">
                 From <cite title="La guerre des frameworks, Julien Rollin">https://www.julienrollin.com/posts/la-guerre-des-framework-js/</cite>
               </figcaption>
             </figure>

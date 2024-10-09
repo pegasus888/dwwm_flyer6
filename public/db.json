@@ -9,51 +9,51 @@
   {
     "name": "David",
     "id": 2,
-    "email": "@",
-    "status": "pending",
-    "githublink": "https://github.com"
+    "email": "?",
+    "status": "pendingl",
+    "githublink": "?"
   },
   {
     "name": "Sébastien",
     "id": 3,
-    "email": "@",
-    "status": "pending",
-    "githublink": "https://github.com"
+    "email": "?",
+    "status": "pendingl",
+    "githublink": "?"
   },
   {
     "name": "Benjamin",
     "id": 4,
-    "email": "@",
-    "status": "pending",
-    "githublink": "https://github.com"
+    "email": "?",
+    "status": "pendingl",
+    "githublink": "?"
   },
   {
     "name": "Enrique",
     "id": 5,
-    "email": "@",
-    "status": "pending",
-    "githublink": "https://github.com"
+    "email": "?",
+    "status": "pendingl",
+    "githublink": "?"
   },
   {
     "name": "Bruno",
     "id": 6,
-    "email": "@",
-    "status": "pending",
-    "githublink": "https://github.com"
+    "email": "?",
+    "status": "pendingl",
+    "githublink": "?"
   },
   {
     "name": "Pierre",
     "id": 7,
-    "email": "@",
-    "status": "pending",
-    "githublink": "https://github.com"
+    "email": "?",
+    "status": "pendingl",
+    "githublink": "?"
   },
   {
     "name": "Julien",
     "id": 8,
-    "email": "@",
-    "status": "pending",
-    "githublink": "https://github.com"
+    "email": "?",
+    "status": "pendingl",
+    "githublink": "?"
   },
   {
     "name": "Agathe",
@@ -65,16 +65,16 @@
   {
     "name": "Mounia",
     "id": 10,
-    "email": "@",
-    "status": "pending",
-    "githublink": "https://github.com"
+    "email": "?",
+    "status": "pendingl",
+    "githublink": "?"
   },
   {
     "name": "Virgil",
     "id": 11,
-    "email": "@",
+    "email": "virgil.frahier@hotmail.fr",
     "status": "pending",
-    "githublink": "https://github.com"
+    "githublink": "https://github.com/Toogga"
   },
   {
     "name": "Chloé",
@@ -93,16 +93,16 @@
   {
     "name": "Nawal",
     "id": 14,
-    "email": "@",
-    "status": "pending",
-    "githublink": "https://github.com"
+    "email": "?",
+    "status": "pendingl",
+    "githublink": "?"
   },
   {
     "name": "Rayanne",
     "id": 15,
-    "email": "@",
+    "email": "rayakourrad@gmail.com",
     "status": "pending",
-    "githublink": "https://github.com"
+    "githublink": "https://github.com/mikadet"
   },
   {
     "name": "Sylvain",
@@ -114,22 +114,22 @@
   {
     "name": "Juliana",
     "id": 17,
-    "email": "@",
-    "status": "pending",
-    "githublink": "https://github.com"
+    "email": "?",
+    "status": "pendingl",
+    "githublink": "?"
   },
   {
     "name": "Nacera",
     "id": 18,
-    "email": "@",
-    "status": "pending",
-    "githublink": "https://github.com"
+    "email": "?",
+    "status": "pendingl",
+    "githublink": "?"
   },
   {
     "name": "Andrew",
     "id": 19,
-    "email": "@",
-    "status": "pending",
-    "githublink": "https://github.com"
+    "email": "?",
+    "status": "pendingl",
+    "githublink": "?"
   }
 ]

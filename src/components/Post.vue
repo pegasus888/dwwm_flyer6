@@ -33,7 +33,7 @@ export default {
     </article>
 
     <figure class="text-right">
-      <figcaption class="blockquote-footer m-2 text-success opacity-25">
+      <figcaption class="blockquote-footer m-2 text-success opacity-75">
         From <cite title="Do you really need a framework? Devmountain">https://devmountain.com/blog/do-you-really-need-a-framework/</cite>
       </figcaption>
     </figure>
