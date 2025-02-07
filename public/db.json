@@ -1,135 +1,16 @@
 [
   {
-    "name": "Aochol",
+    "name": "Student",
     "id": 1,
-    "email": "aocholayoul9@gmail.com",
+    "email": "student@email.com",
     "status": "pending",
-    "githublink": "https://github.com/shawilayoul"
+    "githublink": ""
   },
-  {
-    "name": "David",
+    {
+  "name": "Student",
     "id": 2,
-    "email": "?",
-    "status": "pendingl",
-    "githublink": "?"
-  },
-  {
-    "name": "Sébastien",
-    "id": 3,
-    "email": "?",
-    "status": "pendingl",
-    "githublink": "?"
-  },
-  {
-    "name": "Benjamin",
-    "id": 4,
-    "email": "?",
-    "status": "pendingl",
-    "githublink": "?"
-  },
-  {
-    "name": "Enrique",
-    "id": 5,
-    "email": "enrique.candeias@hotmail.com",
-    "status": "pending",
-    "githublink": "https://github.com/EnriqueCandeias"
-  },
-  {
-    "name": "Bruno",
-    "id": 6,
-    "email": "?",
-    "status": "pendingl",
-    "githublink": "?"
-  },
-  {
-    "name": "Pierre",
-    "id": 7,
-    "email": "?",
-    "status": "pendingl",
-    "githublink": "?"
-  },
-  {
-    "name": "Julien",
-    "id": 8,
-    "email": "?",
-    "status": "pendingl",
-    "githublink": "?"
-  },
-  {
-    "name": "Agathe",
-    "id": 9,
-    "email": "agathe.dupuis.pro@gmail.com",
-    "status": "pending",
-    "githublink": "https://github.com/AgatheDups"
-  },
-  {
-    "name": "Mounia",
-    "id": 10,
-    "email": "?",
-    "status": "pendingl",
-    "githublink": "?"
-  },
-  {
-    "name": "Virgil",
-    "id": 11,
-    "email": "virgil.frahier@hotmail.fr",
-    "status": "pending",
-    "githublink": "https://github.com/Toogga"
-  },
-  {
-    "name": "Chloé",
-    "id": 12,
-    "email": "cgraillaud@laposte.net",
-    "status": "pending",
-    "githublink": "https://github.com/ChloeGraillaud"
-  },
-  {
-  "name": "Noémie",
-    "id": 13,
-    "email": "noemie.h003@gmail.com",
+    "email": "student@email.com",
     "status": "active",
-    "githublink": "https://github.com/pegasus888"
-  },
-  {
-    "name": "Nawal",
-    "id": 14,
-    "email": "nawal.kajtou@gmail.com",
-    "status": "pending",
-    "githublink": "https://github.com/Nawal69200"
-  },
-  {
-    "name": "Rayanne",
-    "id": 15,
-    "email": "rayakourrad@gmail.com",
-    "status": "pending",
-    "githublink": "https://github.com/mikadet"
-  },
-  {
-    "name": "Sylvain",
-    "id": 16,
-    "email": "sylvain.martel2707@outlook.fr",
-    "status": "pending",
-    "githublink": "https://github.com/Martel-Sylvain"
-  },
-  {
-    "name": "Juliana",
-    "id": 17,
-    "email": "?",
-    "status": "pendingl",
-    "githublink": "?"
-  },
-  {
-    "name": "Nacera",
-    "id": 18,
-    "email": "?",
-    "status": "pendingl",
-    "githublink": "?"
-  },
-  {
-    "name": "Andrew",
-    "id": 19,
-    "email": "?",
-    "status": "pendingl",
-    "githublink": "?"
+    "githublink": ""
   }
 ]
