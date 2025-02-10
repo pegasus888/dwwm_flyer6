@@ -4,13 +4,13 @@
     "id": 1,
     "email": "student@email.com",
     "status": "pending",
-    "githublink": ""
+    "githublink": "https://github.com"
   },
     {
   "name": "Student",
     "id": 2,
     "email": "student@email.com",
     "status": "active",
-    "githublink": ""
+    "githublink": "https://github.com"
   }
 ]
